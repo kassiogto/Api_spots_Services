@@ -18,6 +18,8 @@
 <br>
 <------ Multer ( https://www.npmjs.com/package/multer ) ------>
 <br>
+<------ Mongoose ( https://www.npmjs.com/package/mongoose ) ------>
+<br>
 Next -> 
 <br>
 $ git clon https://github.com/kassiogto/Api_spots_Services.git
