@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
  
 const app = express()
 //conectando servidor Moongosee
-mongoose.connect('mongodb://projeto1:123456j@projeto01-shard-00-00-wgosz.mongodb.net:27017,projeto01-shard-00-01-wgosz.mongodb.net:27017,projeto01-shard-00-02-wgosz.mongodb.net:27017/test?ssl=true&replicaSet=projeto01-shard-0&authSource=admin&retryWrites=true&w=majority',{
+mongoose.connect('Coloque seu servidor do mongosee para Rodar a API',{
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
